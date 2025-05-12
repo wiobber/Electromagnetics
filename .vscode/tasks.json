@@ -34,6 +34,7 @@
             "args": [
                 "all",
                 "-s",
+               "${relativeFile}"
             ],
         },
         {
